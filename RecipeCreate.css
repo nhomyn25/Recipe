@@ -1,0 +1,9 @@
+form[name="create"] {
+    background-color: #fff0c7;
+}
+  
+input[type="text"], textarea
+{
+    font-size:12px;
+    color: grey;
+}
